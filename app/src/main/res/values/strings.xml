@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThreadInteractiveTest</string>
+    <string name="app_title">线程交互通信的方式</string>
+    <string name="handler_interactive">handler交互</string>
+    <string name="runOnUi_interactive">runOnUiThread交互</string>
+    <string name="post_interactive">控件post交互</string>
+    <string name="postDelay_interactive">控件postDelay交互</string>
+    <string name="ansycTask_interactive">ansyctask交互</string>
+    <string name="eventBus_interactive">eventBus交互</string>
+    <string name="app_test_ansyctask_title">AnsycTask交互测试</string>
+</resources>
